@@ -15,7 +15,7 @@ Here are the common design pattens:
 
 <ul><li>
 
-[Abstract Factory](/design-patterns/src/main/java/com/maksuta/patterns/creational/AbstractFactory.java)
+[Abstract Factory](/design-patterns/src/main/java/com/maksuta/patterns/creational/abstractFactory/AbstractFactoryMain.java)
 
 </li><li>
 
