@@ -19,7 +19,7 @@ Here are the common design pattens:
 
 </li><li>
 
-[Builder](/design-patterns/src/main/java/com/maksuta/patterns/creational/Builder.java)
+[Builder](/design-patterns/src/main/java/com/maksuta/patterns/creational/builder/Client.java)
 
 </li><li>
 
