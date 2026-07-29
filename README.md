@@ -7,7 +7,11 @@ Here are the common design pattens:
 <th rowspan="3" style="border-right: solid 1px white;">Scope</th>
 <th></th><th>Creational</th><th>Structural</th><th>Behavioral</th></tr>
 
-<tr><th style="border-right: solid 1px white;">Class</th><td>Factory Method</td><td>Adapter</td><td>Interpreter Template Method</td></tr>
+<tr><th style="border-right: solid 1px white;">Class</th><td>Factory Method</td><td>
+
+[Adapter](/design-patterns/src/main/java/com/maksuta/patterns/structural/adapter/Client.java)
+
+</td><td>Interpreter Template Method</td></tr>
 
 <tr>
 <th style="border-right: solid 1px white;">Scope</th>
