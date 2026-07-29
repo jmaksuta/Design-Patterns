@@ -31,7 +31,7 @@ Here are the common design pattens:
 
 </li><li>
 
-[Singleton]()
+[Singleton](/design-patterns/src/main/java/com/maksuta/patterns/creational/singleton/Client.java)
 
 </li></ul>
 
